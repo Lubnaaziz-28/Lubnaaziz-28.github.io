@@ -162,8 +162,13 @@ section.experience ul li {
         margin-right: 0.5em;
 
 }
-
-
+ .education ul {
+   margin-bottom: 20px;
+ }
+.education ul li {
+     padding-left: 1em;
+       margin-bottom: 5px;
+}
 footer {
         background-color: #333;
         color: #fff;
